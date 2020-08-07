@@ -7,5 +7,7 @@
 3. 플로터 card class 제공되는 ListTile 을 사용시 편리하게 위젯을 만들 수 있다.
 4. 머테리얼 아이콘 사용법 
 
-<img src="https://github.com/kimjihun-dev/flutter_card_app/blob/master/mi_app.png" width="100%">
+<br>
+
+<img src="https://github.com/kimjihun-dev/flutter_card_app/blob/master/mi_app.png" width="50%">
 
