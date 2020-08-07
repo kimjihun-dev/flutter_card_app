@@ -6,6 +6,7 @@
 2. fonts 폴더 생성 후 font family 사용방법
 3. 플로터 card class 제공되는 ListTile 을 사용시 편리하게 위젯을 만들 수 있다.
 4. 머테리얼 아이콘 사용법 
+5. SizeBox 이용하여 상하 공백생성 및 Divider 이용하여 가로 라인 생성 
 
 <br>
 
